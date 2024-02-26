@@ -1,0 +1,1 @@
+Testing the Alert messages on the webpage, includes printing the alert text and validating it through ASSERT statements in python using Selenium.
